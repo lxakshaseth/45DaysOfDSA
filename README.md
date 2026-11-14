@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/lxakshaseth/45DaysOfDSA/tree/master/0074-search-a-2d-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/lxakshaseth/45DaysOfDSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
