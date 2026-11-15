@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/lxakshaseth/45DaysOfDSA/tree/master/0074-search-a-2d-matrix) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/lxakshaseth/45DaysOfDSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -17,4 +18,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/lxakshaseth/45DaysOfDSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Math
+|  |
+| ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/lxakshaseth/45DaysOfDSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/lxakshaseth/45DaysOfDSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/lxakshaseth/45DaysOfDSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 <!---LeetCode Topics End-->
