@@ -30,4 +30,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/lxakshaseth/45DaysOfDSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+## Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/lxakshaseth/45DaysOfDSA/tree/master/0098-validate-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/lxakshaseth/45DaysOfDSA/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/lxakshaseth/45DaysOfDSA/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/lxakshaseth/45DaysOfDSA/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
