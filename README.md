@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/lxakshaseth/45DaysOfDSA/tree/master/0074-search-a-2d-matrix) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/lxakshaseth/45DaysOfDSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/lxakshaseth/45DaysOfDSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -58,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0093-restore-ip-addresses](https://github.com/lxakshaseth/45DaysOfDSA/tree/master/0093-restore-ip-addresses) |
+## Greedy
+|  |
+| ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/lxakshaseth/45DaysOfDSA/tree/master/2567-minimum-score-by-changing-two-elements) |
+## Sorting
+|  |
+| ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/lxakshaseth/45DaysOfDSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 <!---LeetCode Topics End-->
