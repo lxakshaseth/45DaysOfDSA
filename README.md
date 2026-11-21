@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/lxakshaseth/45DaysOfDSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/lxakshaseth/45DaysOfDSA/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/lxakshaseth/45DaysOfDSA/tree/master/0092-reverse-linked-list-ii) |
 ## Math
 |  |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/lxakshaseth/45DaysOfDSA/tree/master/2567-minimum-score-by-changing-two-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/lxakshaseth/45DaysOfDSA/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
