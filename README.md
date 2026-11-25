@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/lxakshaseth/45DaysOfDSA/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/lxakshaseth/45DaysOfDSA/tree/master/0074-search-a-2d-matrix) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/lxakshaseth/45DaysOfDSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/lxakshaseth/45DaysOfDSA/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/lxakshaseth/45DaysOfDSA/tree/master/0042-trapping-rain-water) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/lxakshaseth/45DaysOfDSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Prefix Sum
 |  |
@@ -74,9 +76,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/lxakshaseth/45DaysOfDSA/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/lxakshaseth/45DaysOfDSA/tree/master/0086-partition-list) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/lxakshaseth/45DaysOfDSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/lxakshaseth/45DaysOfDSA/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/lxakshaseth/45DaysOfDSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
